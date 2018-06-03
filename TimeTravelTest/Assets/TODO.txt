@@ -1,9 +1,8 @@
 Fix destructable wall error
 new soundtracks
-death fade
-level 2???
+level 2
 new star sprite
-sounds not affected by sliders
+sounds not affected by sliders(?!)
 footstep sounds rock
 
 remove print strings
