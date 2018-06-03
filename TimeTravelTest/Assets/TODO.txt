@@ -1,9 +1,6 @@
 Fix destructable wall error
 new soundtracks
-level 2
-new star sprite
 sounds not affected by sliders(?!)
 footstep sounds rock
-
-remove print strings
 comment all BPs
+
